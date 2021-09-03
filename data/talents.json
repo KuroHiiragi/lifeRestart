@@ -3,7 +3,15 @@
         "id": "1001",
         "name": "随身玉佩",
         "description": "或许有护佑作用",
-        "grade": 0
+        "grade": 0,
+        "status": 20,
+        "effect": {
+            "SPR": 50,
+            "MNY": 50,
+            "CHR": 50,
+            "STR": 50,
+            "INT": 1
+        }
     },
     "1002": {
         "id": "1002",
